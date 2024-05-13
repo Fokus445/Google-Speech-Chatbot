@@ -2,7 +2,7 @@
 
 ## Video
 
-https://github.com/Fokus445/Google-Speech-Chatbot/assets/79461074/ab3c3615-716d-4d26-bdc0-1792cb5b561b
+https://github.com/Fokus445/Google-Speech-Chatbot/assets/79461074/7684ddbe-3de3-4f8f-9355-e6333260bc3e
 
 ## Overview
 
