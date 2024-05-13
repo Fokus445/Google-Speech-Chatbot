@@ -6,7 +6,7 @@ https://github.com/Fokus445/Google-Speech-Chatbot/assets/79461074/7684ddbe-3de3-
 
 ## Overview
 
-This project builds a voice-powered chatbot using Google APIs and PyAudio for a microphone stream and a Pygame.mixer as a response player.
+This project builds a voice-powered chatbot using Google APIs, PyAudio for a microphone stream and a Pygame.mixer as a response player.
 
 Here's how it works:
 
